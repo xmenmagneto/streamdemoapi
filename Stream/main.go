@@ -1,7 +1,7 @@
 package Stream
 
 import (
-  getstream "github.com/GetStream/stream-go"
+  "github.com/GetStream/stream-go"
   "errors"
 )
 

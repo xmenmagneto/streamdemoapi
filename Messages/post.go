@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"github.com/xmenmagneto/streamdemoapi/Stream"
 	"github.com/xmenmagneto/streamdemoapi/Cassandra"
-	getstream "github.com/GetStream/stream-go"
+	"github.com/GetStream/stream-go"
 	"fmt"
 )
 
