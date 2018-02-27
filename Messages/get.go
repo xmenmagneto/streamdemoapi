@@ -4,11 +4,11 @@ import (
 	"net/http"
 	"github.com/gocql/gocql"
 	"encoding/json"
-	"github.com/GetStream/Stream-Example-Go-Cassandra-API/Stream"
-	"github.com/GetStream/Stream-Example-Go-Cassandra-API/Cassandra"
+	"github.com/xmenmagneto/streamdemoapi/Stream"
+	"github.com/xmenmagneto/streamdemoapi/Cassandra"
 	"github.com/gorilla/mux"
 	"fmt"
-	"github.com/GetStream/Stream-Example-Go-Cassandra-API/Users"
+	"github.com/xmenmagneto/streamdemoapi/Users"
 )
 
 // Get -- handles GET request to /messages/ to fetch all messages
