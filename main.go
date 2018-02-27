@@ -16,6 +16,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/xmenmagneto/streamdemoapi/Cassandra"
 	"github.com/xmenmagneto/streamdemoapi/Users"
+	"github.com/xmenmagneto/streamdemoapi/Stream"
+	"github.com/xmenmagneto/streamdemoapi/Messages"
 )
 
 func main() {
